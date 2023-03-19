@@ -20,18 +20,22 @@ Il calcolo è quindi 256 / 4 = 64 =>  i range di indirizzi corrispondono ad una 
 2) Definizione dei range per ogni sottorete:
 sottorete 1:
 172.130.20.0  -> id_rete
+
 172.130.20.63  -> id_broadcast
 
 sottorete 2:
 172.130.20.64 -> id_rete
+
 172.130.20.127  -> id_broadcast
 
 sottorete 3:
 172.130.20.128  -> id_rete
+
 172.130.20.191  -> id_broadcast
 
 sottorete 4:
 172.130.20.192  -> id_rete
+
 172.130.20.255  -> id_broadcast
 
 Ai dispositivi si assegnano gli indirizzi ip compresi tra questi, escludendo perciò quelli relativi alla sottorete stessa o al broadcast.
