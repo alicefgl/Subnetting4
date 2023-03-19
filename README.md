@@ -10,7 +10,7 @@ Creare il piano di indirizzamento per una rete così composta:
 - 4 switch
 - Ciascuna sottorete ha 1 switch e 2 PC, il router permette la comunicazione tra le 4 sottoreti
 
-CONOSCENZE TEORICHE: Il subnetting è una suddivisione di una rete principale in diverse sottoreti che possono contenere un determinato numero di dispositivi ai quali corrisponde un indirizzo ip, per eseguire il calcolo del subnetting è perciò necessario definire gli intervalli delle combinazioni di indirizzi ip per ogni sottorete e la subnet mask relativa all'insieme. Questo processo si applica in base a determinate esigenze che costringono quindi chi struttura una rete ad abbandonare le classi di indirizzi, si avranno perciò delle configurazioni classless. (Relazione sul subnetting di una rete in due)[https://github.com/alicefgl/Subnetting/blob/main/README.md].
+CONOSCENZE TEORICHE: Il subnetting è una suddivisione di una rete principale in diverse sottoreti che possono contenere un determinato numero di dispositivi ai quali corrisponde un indirizzo ip, per eseguire il calcolo del subnetting è perciò necessario definire gli intervalli delle combinazioni di indirizzi ip per ogni sottorete e la subnet mask relativa all'insieme. Questo processo si applica in base a determinate esigenze che costringono quindi chi struttura una rete ad abbandonare le classi di indirizzi, si avranno perciò delle configurazioni classless. [Relazione sul subnetting di una rete in due](https://github.com/alicefgl/Subnetting/blob/main/README.md).
 
 SVOLGIMENTO:
 1) Calcolo dei range di indirizzi ip per ogni sottorete:
